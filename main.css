@@ -1,0 +1,91 @@
+body {
+background-color: black;   
+}
+.button-row {
+ 
+margin-top: 20px;
+}
+
+.button-row button {
+ margin-left:  20px;   
+background-color: darkorange;
+color: black;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 15px;
+padding-right: 15px;
+font-family: serif;
+font-size: 15px;
+font-weight: bold;
+}
+.Image1 {
+ ;  
+background-color: skyblue;
+}
+.Image2 {
+ background-color: lightgrey;
+}
+.image2inside {   
+margin-left: 100px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.image1inside {
+ padding-top: 30px;   
+margin-left: 100px;
+padding-bottom: 30px;
+}
+.image1inside h1 {
+font-family: serif;
+letter-spacing: 2px;
+padding-left: 125px;
+color: whitesmoke
+}
+.image2inside h1 {
+font-family: serif;
+letter-spacing: 2px;
+padding-left: 125px;
+color: whitesmoke
+}
+.car-range {
+margin-top: 30px;   
+}
+.header {
+text-align: center;
+font-family: serif;
+font-size: 30px;
+padding-bottom: 5px;
+color: white;
+letter-spacing: 2px;
+}
+.open-header h1 {
+text-align: center;
+font-family: serif;
+font-size: 30px;
+padding-bottom: 5px;
+color: white;
+letter-spacing: 2px;
+}
+p {
+ text-align: center;
+color: white;
+font-size: 20px
+}
+.open-hours {
+background-color: #afbcd1;
+padding-top: 2px;
+padding-bottom: 5px;
+}
+.contact {
+background-color: black;
+padding-top: 2px;
+padding-bottom: 5px;
+}
+.contact-header h1 {
+text-align: center;
+font-family: serif;
+font-size: 30px;
+padding-bottom: 5px;
+color: white;
+letter-spacing: 2px;
+}
